@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-class Program
+internal partial class Program
 {
     public static void Main()
     {
