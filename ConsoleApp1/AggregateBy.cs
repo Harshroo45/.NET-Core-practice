@@ -8,8 +8,8 @@ namespace ConsoleApp1
     {
         (string name, string city, int age)[] arr = { 
             ("harshal","Mahud",23),
-            ("sayali","sangavi",23),
-            ("rohini","nagpur",23),
+            ("shanavi","mumbai",23),
+            ("parth","pune",23),
             ("tejas","barshi",23)
         };
 
